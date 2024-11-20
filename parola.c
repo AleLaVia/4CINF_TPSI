@@ -2,8 +2,8 @@
 
 int main() {
 
-  char[] parola = "Persona"
+  char parola[] = "PERSONA!";
 
-  printf("Il programma memorizza la parola %s", parola);
+  printf("Il programma memorizza la parola %s\n", parola);
   getchar();
 }
